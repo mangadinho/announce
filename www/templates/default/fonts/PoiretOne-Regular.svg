@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs>
+<font id="PoiretOne-Regular" horiz-adv-x="408">
+<font-face underline-position="-50" font-weight="400" descent="-200" panose-1="2 0 0 0 0 0 0 0 0 0" units-per-em="1000" unicode-range="U+0022-20AC" bbox="10 -200 1067 951" x-height="461" underline-thickness="50" font-family="PoiretOne" ascent="800" cap-height="750"/>
+<missing-glyph horiz-adv-x="1000"/>
+<glyph glyph-name=".notdef" horiz-adv-x="1000"/>
+<glyph glyph-name=".null" horiz-adv-x="0"/>
+<glyph glyph-name="nonmarkingreturn" horiz-adv-x="1000"/>
+<glyph glyph-name="quotedbl" horiz-adv-x="275" unicode='&quot;' d="M172 631v179h33v-179h-33zM70 631v179h33v-179h-33z"/>
+<glyph glyph-name="ampersand" horiz-adv-x="696" unicode="&amp;" d="M35 238q-1 80 49 147t129 91q-37 18 -61 55t-24 78q0 63 45 107t113 44t114 -52v-53q-14 33 -47 55t-77 22t-80 -36t-36 -86t36 -86t87 -36h14v-28h-8q-91 0 -157 -66t-66 -158q0 -90 66 -156t157 -65q91 0 157 65t66 157v223h-139v28h308v-28h-139v-460h-30v128 q-22 -60 -86 -101t-137 -41q-105 0 -179 74t-75 178z"/>
+<glyph glyph-name="quotesingle" horiz-adv-x="183" unicode="&apos;" d="M75 632v178h33v-178h-33z"/>
+<glyph glyph-name="less" d="M75 444l313 182v-38l-271 -159l271 -160v-40l-313 185v30z" unicode="&lt;"/>
+<glyph glyph-name="greater" d="M75 626l313 -183v-29l-313 -185v40l271 160l-271 159v38z" unicode="&gt;"/>
+<glyph glyph-name="o" horiz-adv-x="546" unicode="o" d="M418 371q-60 62 -144 62q-84 -1 -146 -63t-61 -146q-1 -84 61 -146t146 -61q84 -1 145 61q60 62 60 146q-1 84 -61 147zM104 60q-69 72 -69 167t70 165q71 70 169 69q98 1 168 -69t69 -166q0 -96 -68 -166q-68 -71 -165 -71h-9q-96 -1 -165 71z"/>
+<glyph glyph-name="OE" horiz-adv-x="759" unicode="Œ" d="M435 29h20v692h-20q-148 -1 -250 -99t-102 -245q1 -147 103 -247t249 -101zM724 721h-236v-408h197v-29h-197v-255h236v-29h-297q-157 0 -267 112t-110 267t112 263t273 108h289v-29z"/>
+<glyph glyph-name="oe" horiz-adv-x="820" unicode="œ" d="M741 381q-61 54 -137 54t-135 -52q62 -68 62 -158q0 -34 -9 -64zM438 371q-60 62 -144 62q-84 -1 -146 -63t-61 -146q-1 -84 61 -146t146 -61q84 -1 145 61q60 62 60 146q-1 84 -61 147zM300 -11h-15q-93 -1 -161 71t-69 167q0 95 70 165t162 69q92 0 161 -56 q69 58 155 58q108 0 182 -82l-313 -311q64 -51 124 -51q60 -1 108 27t78 74v-51q-71 -78 -172 -78h-15q-82 0 -146 56q-64 -58 -149 -58z"/>
+<glyph glyph-name="circumflex" horiz-adv-x="330" unicode="ˆ" d="M182 644l132 -115h-41l-107 91l-106 -91h-42l134 115h30z"/>
+<glyph glyph-name="tilde" horiz-adv-x="371" unicode="˜" d="M266 547q-28 -1 -78 27q-49 27 -79 28h-1q-30 0 -62 -54h-31q39 80 95 80h9q30 0 75 -26q44 -26 72 -27q28 0 59 49h31q-47 -77 -90 -77z"/>
+<glyph glyph-name="uni0401" horiz-adv-x="379" unicode="Ё" d="M234 886q0 27 28 27t27 -27q1 -27 -27 -27t-28 27zM127 886q0 27 29 27t29 -27t-29 -27t-29 27zM344 721h-236v-408h197v-29h-197v-255h236v-29h-269v750h269v-29z"/>
+<glyph glyph-name="uni0402" horiz-adv-x="663" unicode="Ђ" d="M431 -198v26q59 0 99 40t41 103v291q-1 70 -51 122t-118 51q-68 1 -120 -49q-51 -50 -51 -117v-269h-33v721h-173v29h377v-29h-171v-350q53 92 169 92q84 -1 144 -59t60 -142v-291q0 -75 -50 -122t-123 -47z"/>
+<glyph glyph-name="uni0403" horiz-adv-x="377" unicode="Ѓ" d="M267 950h41l-139 -139h-42zM342 721h-234v-721h-33v750h267v-29z"/>
+<glyph glyph-name="uni0404" horiz-adv-x="678" unicode="Є" d="M440 763q108 0 203 -57v-36q-94 64 -203 64q-147 0 -252 -106t-105 -253q0 -28 5 -60h374v-29h-368q32 -114 130 -192t211 -78q114 0 208 64v-37q-91 -56 -196 -56h-15q-154 0 -268 117q-114 118 -114 274t115 270t275 115z"/>
+<glyph glyph-name="uni0405" horiz-adv-x="539" unicode="Ѕ" d="M340 709q-40 24 -88 24q-50 1 -92 -35t-42 -93q0 -69 74 -116q32 -21 72 -41t79 -43q41 -23 73 -49t52 -68q20 -40 21 -90q-1 -100 -69 -156t-169 -56q-128 0 -201 103v54q27 -58 81 -93t131 -35q78 1 136 49t58 132q0 52 -28 93t-68 65q-42 24 -90 52q-48 26 -89 49 t-69 61t-27 88q0 74 53 116t120 42q92 0 147 -68v-51q-25 42 -65 66z"/>
+<glyph glyph-name="uni0406" horiz-adv-x="213" unicode="І" d="M123 0h-33v750h33v-750z"/>
+<glyph glyph-name="uni0407" horiz-adv-x="189" unicode="Ї" d="M122 831q0 26 26 26t26 -26t-26 -26t-26 26zM15 831q0 26 26 26t26 -26t-26 -26t-26 26zM110 750v-750h-33v750h33z"/>
+<glyph glyph-name="uni0408" horiz-adv-x="472" unicode="Ј" d="M179 721v29h218v-520q1 -109 -59 -177t-156 -68h-10q-80 0 -147 57v41q63 -69 151 -69t138 60t50 152v495h-185z"/>
+<glyph glyph-name="uni0409" horiz-adv-x="798" unicode="Љ" d="M522 30h5q79 0 139 60t61 139q0 79 -60 139t-137 60h-8v-398zM490 0v721h-241v-480q0 -105 -60 -173t-157 -68h-7v29q81 -1 136 61t55 151v509h306v-292h9q82 0 154 -68t72 -161q1 -93 -69 -161t-162 -68h-36z"/>
+<glyph glyph-name="uni040A" horiz-adv-x="715" unicode="Њ" d="M477 30h5q80 0 140 60t60 139t-60 139t-137 60h-8v-398zM477 750v-292h9q82 0 154 -68t72 -161t-70 -161t-161 -68h-36v427h-337v-427h-33v750h33v-292h337v292h32z"/>
+<glyph glyph-name="uni040B" horiz-adv-x="663" unicode="Ћ" d="M231 0h-33v721h-170v29h374v-29h-171v-350q53 92 169 92q84 -1 144 -59t59 -142v-262h-32v262q-1 70 -51 122t-118 51q-68 1 -120 -49q-51 -50 -51 -117v-269z"/>
+<glyph glyph-name="uni040C" horiz-adv-x="579" unicode="Ќ" d="M75 750h32v-275l317 275h40l-343 -299l431 -451h-44l-400 417v-417h-33v750zM325 951h39l-139 -139h-40z"/>
+<glyph glyph-name="uni040E" horiz-adv-x="639" unicode="Ў" d="M613 750l-356 -750h-31l86 181l-280 569h36l262 -534l252 534h31zM269 862q29 -28 65 -27q36 -1 64 27t32 64h29q-1 -48 -37 -82t-84 -34h-8q-48 0 -83 34t-37 82h28q2 -36 31 -64z"/>
+<glyph glyph-name="uni040F" horiz-adv-x="621" unicode="Џ" d="M296 0h-221v750h33v-721h405v721h33v-750h-219v-97h-31v97z"/>
+<glyph glyph-name="uni0410" horiz-adv-x="799" unicode="А" d="M396 699l-187 -384h376zM399 768l375 -768h-35l-142 286h-401l-140 -286h-31z"/>
+<glyph glyph-name="uni0411" horiz-adv-x="393" unicode="Б" d="M108 449v-421h8q82 0 146 62t63 148q0 86 -61 148t-148 63h-8zM75 0v750h240v-29h-207v-244h9q95 0 168 -71t73 -168q0 -98 -75 -168t-175 -70h-33z"/>
+<glyph glyph-name="uni0412" horiz-adv-x="392" unicode="В" d="M107 722v-236h8q45 0 79 36t35 84q0 48 -34 82t-80 34h-8zM107 459v-431h8q87 0 149 64t62 152t-62 152t-149 63h-8zM75 750h32q65 0 109 -40t44 -104q0 -38 -24 -78t-58 -51q77 -19 128 -82t51 -159t-73 -166t-177 -70h-32v750z"/>
+<glyph glyph-name="uni0413" horiz-adv-x="367" unicode="Г" d="M342 721h-234v-721h-33v750h267v-29z"/>
+<glyph glyph-name="uni0414" horiz-adv-x="895" unicode="Д" d="M448 698l-327 -669h657zM35 -97v126h55l361 738l361 -738h48v-126h-31v97h-765v-97h-29z"/>
+<glyph glyph-name="uni0415" horiz-adv-x="369" unicode="Е" d="M344 721h-236v-408h197v-29h-197v-255h236v-29h-269v750h269v-29z"/>
+<glyph glyph-name="uni0416" horiz-adv-x="918" unicode="Ж" d="M443 750h32v-271l249 271h37l-274 -298l406 -452h-41l-377 417v-417h-32v417l-376 -417h-42l407 452l-274 298h36l249 -271v271z"/>
+<glyph glyph-name="uni0417" horiz-adv-x="535" unicode="З" d="M389 613q0 -84 -80 -130q81 -19 133 -91t53 -157q0 -102 -75 -175t-181 -73q-65 1 -119 29t-85 79v56q27 -59 81 -97t124 -38q90 0 156 65t66 157t-64 158q-64 67 -158 67h-38v28h32q50 0 86 36t36 86q0 49 -36 85t-81 36q-46 0 -80 -23t-46 -60v52q45 60 115 60t116 -44 t45 -106z"/>
+<glyph glyph-name="uni0418" horiz-adv-x="737" unicode="И" d="M662 750v-750h-33v703l-523 -703h-31v750h33v-701l521 701h33z"/>
+<glyph glyph-name="uni0419" horiz-adv-x="737" unicode="Й" d="M662 750v-750h-33v703l-523 -703h-31v750h33v-701l521 701h33zM316 870q28 -26 64 -27q36 0 65 27q28 27 32 63h29q-2 -47 -38 -81t-83 -35h-8q-48 0 -83 34t-37 82h28q3 -37 31 -63z"/>
+<glyph glyph-name="uni041A" horiz-adv-x="577" unicode="К" d="M75 750h32v-275l317 275h40l-343 -299l431 -451h-44l-400 417v-417h-33v750z"/>
+<glyph glyph-name="uni041B" horiz-adv-x="796" unicode="Л" d="M398 767l373 -767h-36l-340 695l-338 -695h-32z"/>
+<glyph glyph-name="uni041C" horiz-adv-x="919" unicode="М" d="M844 750v-750h-33v711l-354 -725l-352 725v-711h-30v750h48l337 -692l338 692h46z"/>
+<glyph glyph-name="uni041D" horiz-adv-x="730" unicode="Н" d="M622 750h33v-750h-33v286h-514v-286h-33v750h33v-435h514v435z"/>
+<glyph glyph-name="uni041E" horiz-adv-x="880" unicode="О" d="M692 630q-104 106 -252 105q-148 1 -252 -105q-105 -106 -105 -254t105 -253q105 -106 252 -106t252 106q105 105 105 253q-1 148 -105 254zM164 105q-114 117 -114 273t115 272q115 114 276 114t275 -114t114 -272t-113 -274t-270 -116h-15q-154 0 -268 117z"/>
+<glyph glyph-name="uni041F" horiz-adv-x="622" unicode="П" d="M75 750h472v-750h-33v721h-406v-721h-33v750z"/>
+<glyph glyph-name="uni0420" d="M108 301h8q84 0 146 62t63 147t-63 148t-146 63h-8v-420zM75 750h33q104 0 177 -72t73 -168q0 -97 -76 -167t-166 -70h-8v-273h-33v750z" unicode="Р"/>
+<glyph glyph-name="uni0421" horiz-adv-x="678" unicode="С" d="M445 -11h-11q-103 0 -192 54q-88 53 -140 143t-52 191q0 159 115 273t275 115q107 0 203 -56v-37q-94 64 -203 64q-147 0 -252 -106t-105 -252q0 -148 105 -254t252 -106q109 0 203 64v-37q-91 -56 -198 -56z"/>
+<glyph glyph-name="uni0422" horiz-adv-x="427" unicode="Т" d="M402 750v-29h-171v-721h-33v721h-173v29h377z"/>
+<glyph glyph-name="uni0423" horiz-adv-x="631" unicode="У" d="M606 750l-356 -750h-31l86 181l-280 569h36l262 -534l252 534h31z"/>
+<glyph glyph-name="uni0424" horiz-adv-x="847" unicode="Ф" d="M448 690h-8v-628h7q129 0 223 93t95 220t-95 221t-222 94zM400 62h7v628h-8q-129 0 -223 -93t-93 -221q-1 -128 93 -220q94 -94 224 -94zM407 -25v60h-7q-142 1 -246 103t-104 240t104 238t245 101h8v58h33v-58h7q143 -1 247 -103t103 -239q0 -137 -104 -239t-246 -101 h-7v-60h-33z"/>
+<glyph glyph-name="uni0425" horiz-adv-x="493" unicode="Х" d="M424 750l-161 -330l205 -420h-37l-187 385l-188 -385h-31l203 419l-165 331h38l146 -297l145 297h32z"/>
+<glyph glyph-name="uni0426" horiz-adv-x="648" unicode="Ц" d="M594 0h-519v750h33v-721h405v721h33v-721h77v-126h-29v97z"/>
+<glyph glyph-name="uni0427" horiz-adv-x="582" unicode="Ч" d="M60 505v245h33v-238q-1 -82 55 -140t136 -59q80 1 134 59q56 58 56 140v238h33v-750h-33v406q-25 -54 -75 -88t-110 -34h-10q-89 0 -154 66t-65 155z"/>
+<glyph glyph-name="uni0428" horiz-adv-x="714" unicode="Ш" d="M639 0h-564v750h33v-721h233v721h32v-721h233v721h33v-750z"/>
+<glyph glyph-name="uni0429" horiz-adv-x="742" unicode="Щ" d="M688 0h-613v750h33v-721h233v721h32v-721h233v721h34v-721h77v-126h-29v97z"/>
+<glyph glyph-name="uni042A" horiz-adv-x="468" unicode="Ъ" d="M191 428h-8v-399h8q75 0 135 60t59 140q0 79 -59 139t-135 60zM25 721v29h158v-293h9q82 0 154 -68t72 -160q0 -93 -70 -161t-165 -68h-33v721h-125z"/>
+<glyph glyph-name="uni042B" horiz-adv-x="542" unicode="Ы" d="M116 428h-8v-399h8q74 0 134 60t60 140q0 79 -59 139t-135 60zM75 750h33v-293h9q82 0 154 -68t72 -160q-1 -93 -71 -161t-164 -68h-33v750zM434 0v750h33v-750h-33z"/>
+<glyph glyph-name="uni042C" horiz-adv-x="393" unicode="Ь" d="M116 428h-8v-399h8q74 0 134 60t60 140q0 79 -59 139t-135 60zM75 750h33v-293h9q82 0 154 -68t72 -160q-1 -93 -71 -161t-164 -68h-33v750z"/>
+<glyph glyph-name="uni042D" horiz-adv-x="678" unicode="Э" d="M238 763q160 -1 275 -115t115 -270t-114 -274q-114 -117 -268 -117h-15q-105 0 -196 56v37q94 -64 208 -64q113 0 211 78t130 192h-368v29h374q5 32 5 60q0 147 -105 253t-252 106q-109 0 -203 -64v36q95 57 203 57z"/>
+<glyph glyph-name="uni042E" horiz-adv-x="1117" unicode="Ю" d="M928 628q-106 106 -252 106q-148 0 -252 -106t-104 -252q0 -148 105 -254t251 -106t252 106t106 254q0 146 -106 252zM75 0v750h33v-435h184q-5 32 -5 60q0 159 115 273t275 115q160 0 275 -114t115 -271t-114 -274t-269 -117h-15q-129 0 -233 87t-139 212h-189v-286h-33 z"/>
+<glyph glyph-name="uni042F" horiz-adv-x="406" unicode="Я" d="M281 301h18v420h-13q-82 0 -146 -63t-64 -148t62 -147t143 -62zM288 750h43v-750h-32v238l-227 -238h-37l258 272h-13q-86 0 -161 71t-75 167t74 168t170 72z"/>
+<glyph glyph-name="uni0430" horiz-adv-x="589" unicode="а" d="M134 78q62 -62 146 -61q84 -1 144 61t60 146t-60 147q-60 62 -145 62q-83 -1 -145 -63t-62 -146t62 -146zM514 450v-450h-32v112q-28 -57 -84 -90t-120 -33q-98 -1 -168 69t-70 167t70 167t168 69q64 0 122 -34t82 -90v113h32z"/>
+<glyph glyph-name="uni0431" horiz-adv-x="571" unicode="б" d="M293 459q99 1 169 -69t69 -166q1 -96 -67 -166q-68 -71 -164 -71h-15q-93 0 -161 73t-69 168v76q0 111 46 181q19 29 55 55t63 38q28 13 75 32l182 72v-29l-182 -73q-208 -83 -208 -240v-9q29 60 86 94t121 34zM148 76q62 -62 146 -61q84 -1 145 61q60 62 60 146 q-1 84 -61 147q-60 62 -144 62q-84 -1 -146 -63t-61 -146q-1 -84 61 -146z"/>
+<glyph glyph-name="uni0432" horiz-adv-x="347" unicode="в" d="M160 423h-53v-128h55q24 1 42 19t18 44t-19 45q-19 20 -43 20zM161 268h-54v-241h54q49 -1 83 35t34 86t-34 85t-83 35zM75 450h84q39 0 65 -26t25 -71q0 -44 -37 -68q40 -12 68 -52t27 -93q0 -52 -43 -96t-105 -44h-84v450z"/>
+<glyph glyph-name="uni0433" horiz-adv-x="299" unicode="г" d="M274 421h-167v-421h-32v449h199v-28z"/>
+<glyph glyph-name="uni0434" horiz-adv-x="536" unicode="д" d="M266 395l-176 -368h353zM25 -57v83h35l209 437l209 -436h33v-84h-28v57h-432v-57h-26z"/>
+<glyph glyph-name="uni0435" horiz-adv-x="490" unicode="е" d="M134 370q-62 -62 -62 -141q0 -80 53 -140l291 289q-62 54 -142 54q-78 0 -140 -62zM283 -12h-11q-96 0 -164 71t-68 167t70 164q70 70 173 70t177 -82l-314 -310q65 -52 125 -52q59 0 107 28t79 73v-51q-71 -78 -174 -78z"/>
+<glyph glyph-name="uni0436" horiz-adv-x="616" unicode="ж" d="M292 450h32v-145l144 145h36l-176 -180l263 -270h-43l-224 231v-231h-32v231l-224 -231h-43l263 270l-176 180h36l144 -145v145z"/>
+<glyph glyph-name="uni0437" horiz-adv-x="358" unicode="з" d="M226 430q28 -28 28 -60t-14 -53t-31 -30q45 -13 77 -55t32 -98t-46 -102t-111 -45q-85 0 -131 68v60q15 -45 49 -73t83 -28q48 0 86 38t38 90t-38 90t-87 38h-24v27h20q27 0 46 20t19 47t-19 47t-46 20q-56 0 -78 -71v63q32 35 75 35q44 0 72 -28z"/>
+<glyph glyph-name="uni0438" horiz-adv-x="533" unicode="и" d="M458 449v-449h-31v399l-324 -399h-28v449h31v-399l323 399h29z"/>
+<glyph glyph-name="uni0439" horiz-adv-x="533" unicode="й" d="M212 632q28 -26 64 -27q36 0 65 27q28 27 32 63h29q-2 -47 -38 -81t-83 -35h-8q-48 0 -83 34t-37 82h28q3 -37 31 -63zM458 449v-449h-31v399l-324 -399h-28v449h31v-399l323 399h29z"/>
+<glyph glyph-name="uni043A" horiz-adv-x="403" unicode="к" d="M75 450h32v-156l178 156h41l-206 -180l258 -270h-43l-228 237v-237h-32v450z"/>
+<glyph glyph-name="uni043B" horiz-adv-x="493" unicode="л" d="M54 0h-29l221 463l222 -463h-35l-190 395z"/>
+<glyph glyph-name="uni043C" horiz-adv-x="613" unicode="м" d="M75 0v450h36l197 -398l200 398h30v-450h-32v391l-203 -403l-200 407v-395h-28z"/>
+<glyph glyph-name="uni043D" horiz-adv-x="519" unicode="н" d="M412 450h32v-450h-32v169h-305v-169h-32v450h32v-253h305v253z"/>
+<glyph glyph-name="uni043E" horiz-adv-x="556" unicode="о" d="M424 371q-60 62 -145 62q-83 -1 -145 -63t-62 -146t62 -146t146 -61q84 -1 144 61t60 146t-60 147zM110 392q70 70 168 69q98 1 168 -69t70 -166t-68 -166q-68 -71 -165 -71h-10q-93 -1 -163 71t-70 167t70 165z"/>
+<glyph glyph-name="uni043F" horiz-adv-x="512" unicode="п" d="M75 450h362v-450h-32v422h-298v-422h-32v450z"/>
+<glyph glyph-name="uni0440" horiz-adv-x="589" unicode="р" d="M166 78q62 -62 146 -61q84 -1 145 61q60 62 60 146q-1 84 -61 147q-60 62 -144 62q-84 -1 -146 -63t-61 -146q-1 -84 61 -146zM75 -200v650h32v-110q27 55 85 88t119 33q99 1 169 -69t69 -167q1 -97 -69 -167t-169 -69q-60 1 -117 33t-87 87v-309h-32z"/>
+<glyph glyph-name="uni0441" horiz-adv-x="486" unicode="с" d="M283 -13h-9q-96 0 -165 71q-69 70 -69 166t70 166t172 69q102 0 174 -77v-51q-30 46 -78 73t-100 27q-82 1 -144 -61t-62 -147t62 -147t144 -61q52 0 100 27t78 74v-52q-70 -77 -173 -77z"/>
+<glyph glyph-name="uni0442" horiz-adv-x="426" unicode="т" d="M401 449v-28h-172v-421h-32v421h-172v28h376z"/>
+<glyph glyph-name="uni0443" horiz-adv-x="508" unicode="у" d="M483 450l-309 -650h-29l95 201l-215 449h34l198 -413l197 413h29z"/>
+<glyph glyph-name="uni0444" horiz-adv-x="601" unicode="ф" d="M321 433v-411h6q83 0 143 60t60 145q0 84 -60 145t-144 61h-5zM289 433h-8q-83 1 -147 -61t-64 -145t64 -144t147 -61h8v411zM289 629h32v-168h5q98 -1 166 -69t69 -164t-67 -164q-68 -70 -166 -70h-7v-192h-32v192h-8q-99 0 -170 70t-71 164t72 164q72 69 169 69h8v168z "/>
+<glyph glyph-name="uni0445" horiz-adv-x="442" unicode="х" d="M236 273l181 -273h-37l-162 245l-161 -245h-32l177 270l-119 180h37l100 -152l100 152h32z"/>
+<glyph glyph-name="uni0446" horiz-adv-x="533" unicode="ц" d="M405 450h32v-421h71v-126h-28v97h-405v450h32v-422h298v422z"/>
+<glyph glyph-name="uni0447" horiz-adv-x="436" unicode="ч" d="M40 310v140h32v-137q0 -56 38 -96t91 -40q54 0 91 40t37 96v137h32v-450h-31v222q-18 -32 -52 -52t-73 -19h-6q-65 -1 -112 47t-47 112z"/>
+<glyph glyph-name="uni0448" horiz-adv-x="614" unicode="ш" d="M539 0h-464v450h32v-422h184v422h32v-422h184v422h32v-450z"/>
+<glyph glyph-name="uni0449" horiz-adv-x="638" unicode="щ" d="M75 0v450h32v-422h185v422h32v-422h185v422h32v-421h72v-126h-31v97h-507z"/>
+<glyph glyph-name="uni044A" horiz-adv-x="382" unicode="ъ" d="M147 268v-241h47q47 -1 82 35t35 84q1 48 -35 86q-36 36 -82 36h-47zM25 450h122v-155h49q60 0 103 -44t43 -104q0 -59 -44 -103t-105 -44h-78v422h-90v28z"/>
+<glyph glyph-name="uni044B" horiz-adv-x="498" unicode="ы" d="M107 268v-241h47q47 -1 82 35t35 84q1 48 -35 86q-36 36 -82 36h-47zM75 450h32v-155h49q60 0 103 -44t43 -104q0 -59 -44 -103t-105 -44h-78v450zM391 450h31v-450h-31v450z"/>
+<glyph glyph-name="uni044C" horiz-adv-x="342" unicode="ь" d="M107 268v-241h47q47 -1 82 35t35 84q1 48 -35 86q-36 36 -82 36h-47zM75 450h32v-155h49q60 0 103 -44t43 -104q0 -59 -44 -103t-105 -44h-78v450z"/>
+<glyph glyph-name="uni044D" horiz-adv-x="486" unicode="э" d="M157 170v27h255q2 14 2 26q0 85 -62 147t-144 61q-52 0 -100 -27t-78 -74v52q70 77 174 77h9q95 1 164 -71t69 -167t-70 -165t-172 -69q-102 0 -174 77v52q30 -47 78 -74t107 -27q59 -1 115 45t78 110h-251z"/>
+<glyph glyph-name="uni044E" horiz-adv-x="736" unicode="ю" d="M458 433q-84 0 -145 -62q-61 -63 -61 -147t61 -146t145 -61q84 -1 145 61t61 146t-61 147q-61 62 -145 62zM75 0v450h32v-253h115q-2 6 -2 28q0 97 70 167t168 69q98 1 168 -69t70 -165t-69 -167t-165 -71h-8q-78 0 -142 53t-86 127h-119v-169h-32z"/>
+<glyph glyph-name="uni044F" horiz-adv-x="328" unicode="я" d="M221 182v241h-30q-45 -1 -81 -37t-36 -84t36 -84t81 -36h30zM76 210q-31 40 -31 96q-1 56 43 100t105 44h60v-450h-32v155h-33l-114 -155h-34l116 158q-49 12 -80 52z"/>
+<glyph glyph-name="uni0451" horiz-adv-x="500" unicode="ё" d="M134 370q-62 -62 -62 -141q0 -80 53 -140l291 289q-62 54 -142 54q-78 0 -140 -62zM283 -12h-11q-96 0 -164 71t-68 167t70 164q70 70 173 70t177 -82l-314 -310q65 -52 125 -52q59 0 107 28t79 73v-51q-71 -78 -174 -78zM299 604q-1 27 27 27t28 -27t-28 -27t-27 27z M192 604q0 27 29 27t29 -27t-29 -27t-29 27z"/>
+<glyph glyph-name="uni0452" horiz-adv-x="640" unicode="ђ" d="M25 579v29h136v140h33v-140h169v-29h-169v-210q53 92 169 92q85 0 143 -58t59 -141v-291q0 -73 -50 -121t-121 -48v28q58 0 98 40t40 101v291q0 69 -50 120t-118 51q-68 1 -120 -49q-50 -50 -50 -115v-269h-33v579h-136z"/>
+<glyph glyph-name="uni0453" horiz-adv-x="299" unicode="ѓ" d="M233 703h41l-139 -139h-42zM273 422h-167v-422h-31v449h198v-27z"/>
+<glyph glyph-name="uni0454" horiz-adv-x="491" unicode="є" d="M329 197v-27h-251q22 -64 78 -110t115 -45q59 0 107 27t78 74v-52q-72 -77 -174 -77q-102 -1 -172 69t-70 165t68 167t162 71h15q101 0 171 -77v-52q-30 47 -78 74t-100 27q-82 1 -144 -61t-62 -147q0 -12 2 -26h255z"/>
+<glyph glyph-name="uni0455" horiz-adv-x="357" unicode="ѕ" d="M166 434q-26 0 -46 -17t-20 -42t22 -46t54 -39t64 -37q32 -20 54 -51t23 -71q-1 -59 -45 -101t-107 -41q-41 -1 -75 17t-50 47v48q38 -84 122 -84q52 0 88 32q36 31 35 71t-23 67t-54 46t-64 37t-54 46q-22 26 -22 62t28 60t74 24q45 0 77 -35v-41q-32 48 -81 48z"/>
+<glyph glyph-name="uni0456" horiz-adv-x="218" unicode="і" d="M80 586q0 27 29 27t29 -27t-29 -27t-29 27zM125 449v-449h-32v449h32z"/>
+<glyph glyph-name="uni0457" horiz-adv-x="202" unicode="ї" d="M118 449v-449h-32v449h32zM127 586q-1 27 27 27t28 -27t-28 -27t-27 27zM20 586q0 27 29 27t29 -27t-29 -27t-29 27z"/>
+<glyph glyph-name="uni0458" horiz-adv-x="272" unicode="ј" d="M139 586q0 27 29 27t29 -27t-29 -27t-29 27zM10 -198v28q60 0 100 40t40 101v479h33v-479q-1 -73 -51 -121t-122 -48z"/>
+<glyph glyph-name="uni0459" horiz-adv-x="628" unicode="љ" d="M418 268v-241h24q47 -1 82 35t35 84q1 48 -35 86q-36 36 -82 36h-24zM30 0v28q59 0 100 40t41 101v281h247v-155h25q61 0 103 -44t42 -104q0 -59 -44 -103t-104 -44h-54v422h-186v-253q0 -73 -50 -121t-120 -48z"/>
+<glyph glyph-name="uni045A" horiz-adv-x="601" unicode="њ" d="M392 268v-241h23q49 -1 83 35t34 84t-34 86q-34 36 -83 36h-23zM361 450h31v-155h24q61 1 103 -43t42 -104t-43 -104t-105 -44h-52v268h-254v-268h-32v450h32v-154h254v154z"/>
+<glyph glyph-name="uni045B" horiz-adv-x="640" unicode="ћ" d="M25 579v29h136v140h33v-140h169v-29h-169v-210q53 92 169 92q85 0 143 -58t59 -141v-262h-33v262q0 69 -50 120t-118 51q-68 1 -120 -49q-50 -50 -50 -115v-269h-33v579h-136z"/>
+<glyph glyph-name="uni045C" horiz-adv-x="403" unicode="ќ" d="M75 450h32v-156l178 156h41l-206 -180l258 -270h-43l-228 237v-237h-32v450zM253 703h41l-139 -139h-42z"/>
+<glyph glyph-name="uni045E" horiz-adv-x="508" unicode="ў" d="M483 450l-309 -650h-29l95 201l-215 449h34l198 -413l197 413h29zM205 624q29 -28 65 -27q36 -1 64 27t32 64h29q-1 -48 -37 -82t-84 -34h-8q-48 0 -83 34t-37 82h28q2 -36 31 -64z"/>
+<glyph glyph-name="uni045F" horiz-adv-x="510" unicode="џ" d="M403 450h32v-450h-165v-97h-29v97h-166v450h32v-422h296v422z"/>
+<glyph glyph-name="uni0490" horiz-adv-x="367" unicode="Ґ" d="M108 721v-721h-33v750h234v99h33v-128h-234z"/>
+<glyph glyph-name="uni0491" horiz-adv-x="299" unicode="ґ" d="M107 422v-422h-32v450h168v103h31v-131h-167z"/>
+<glyph glyph-name="endash" d="M358 282h-308v31h308v-31z" unicode="–"/>
+<glyph glyph-name="emdash" horiz-adv-x="494" unicode="—" d="M479 282h-464v31h464v-31z"/>
+<glyph glyph-name="quoteleft" horiz-adv-x="220" unicode="‘" d="M136 685v-118h-36v118q0 47 26 81t69 46v-35q-59 -27 -59 -92z"/>
+<glyph glyph-name="quotesinglbase" horiz-adv-x="205" unicode="‚" d="M79 -72v104h36v-104q0 -46 -26 -80t-69 -47v35q59 27 59 92z"/>
+<glyph glyph-name="quotedblleft" horiz-adv-x="344" unicode="“" d="M260 685v-118h-36v118q0 47 26 81t69 46v-35q-59 -27 -59 -92zM136 685v-118h-36v118q0 47 26 81t69 46v-35q-59 -27 -59 -92z"/>
+<glyph glyph-name="quotedblright" horiz-adv-x="344" unicode="”" d="M84 694v116h36v-116q0 -46 -26 -80t-69 -47v35q59 27 59 92zM208 694v116h36v-116q0 -46 -26 -80t-69 -47v35q59 27 59 92z"/>
+<glyph glyph-name="guilsinglleft" horiz-adv-x="313" unicode="‹" d="M75 240l218 193v-43l-184 -163l184 -164v-45l-218 196v26z"/>
+<glyph glyph-name="guilsinglright" horiz-adv-x="313" unicode="›" d="M20 433l218 -193v-26l-218 -196v45l184 164l-184 163v43z"/>
+<glyph glyph-name="Euro" horiz-adv-x="701" unicode="€" d="M463 761q106 0 203 -58l-12 -30q-85 59 -197 59t-211 -83t-132 -199h444l-11 -29h-438q-3 -23 -3 -49t5 -57h390l-11 -29h-373q33 -114 129 -192t210 -78t208 64v-37q-91 -56 -194 -56h-15q-155 0 -267 116q-112 117 -113 273q0 156 114 270t274 115z"/>
+<hkern k="48" u1="&apos;" u2="&apos;"/>
+<hkern k="44" u1="&apos;" u2='&quot;'/>
+<hkern k="133" u1="Ѓ" u2="ґ"/>
+<hkern k="133" u1="Ѓ" u2="ќ"/>
+<hkern k="133" u1="Ѓ" u2="ѕ"/>
+<hkern k="133" u1="Ѓ" u2="є"/>
+<hkern k="133" u1="Ѓ" u2="ѓ"/>
+<hkern k="133" u1="Ѓ" u2="ё"/>
+<hkern k="133" u1="Ѓ" u2="я"/>
+<hkern k="133" u1="Ѓ" u2="ю"/>
+<hkern k="133" u1="Ѓ" u2="э"/>
+<hkern k="133" u1="Ѓ" u2="ь"/>
+<hkern k="133" u1="Ѓ" u2="ы"/>
+<hkern k="133" u1="Ѓ" u2="ъ"/>
+<hkern k="133" u1="Ѓ" u2="щ"/>
+<hkern k="133" u1="Ѓ" u2="ш"/>
+<hkern k="133" u1="Ѓ" u2="ч"/>
+<hkern k="133" u1="Ѓ" u2="ц"/>
+<hkern k="133" u1="Ѓ" u2="х"/>
+<hkern k="133" u1="Ѓ" u2="ф"/>
+<hkern k="133" u1="Ѓ" u2="у"/>
+<hkern k="133" u1="Ѓ" u2="т"/>
+<hkern k="133" u1="Ѓ" u2="с"/>
+<hkern k="133" u1="Ѓ" u2="р"/>
+<hkern k="133" u1="Ѓ" u2="п"/>
+<hkern k="133" u1="Ѓ" u2="о"/>
+<hkern k="133" u1="Ѓ" u2="н"/>
+<hkern k="133" u1="Ѓ" u2="м"/>
+<hkern k="133" u1="Ѓ" u2="л"/>
+<hkern k="133" u1="Ѓ" u2="к"/>
+<hkern k="100" u1="Ѓ" u2="й"/>
+<hkern k="133" u1="Ѓ" u2="и"/>
+<hkern k="133" u1="Ѓ" u2="з"/>
+<hkern k="133" u1="Ѓ" u2="ж"/>
+<hkern k="133" u1="Ѓ" u2="е"/>
+<hkern k="133" u1="Ѓ" u2="д"/>
+<hkern k="133" u1="Ѓ" u2="г"/>
+<hkern k="133" u1="Ѓ" u2="в"/>
+<hkern k="133" u1="Ѓ" u2="б"/>
+<hkern k="133" u1="Ѓ" u2="а"/>
+<hkern k="-50" u1="Ѓ" u2="Ъ"/>
+<hkern k="70" u1="Ѓ" u2="Ф"/>
+<hkern k="-50" u1="Ѓ" u2="У"/>
+<hkern k="-50" u1="Ѓ" u2="Т"/>
+<hkern k="70" u1="Ѓ" u2="С"/>
+<hkern k="70" u1="Ѓ" u2="О"/>
+<hkern k="125" u1="Ѓ" u2="Л"/>
+<hkern k="125" u1="Ѓ" u2="Ж"/>
+<hkern k="125" u1="Ѓ" u2="Д"/>
+<hkern k="140" u1="Ѓ" u2="А"/>
+<hkern k="70" u1="Ѓ" u2="Є"/>
+<hkern k="70" u1="Ќ" u2="Ъ"/>
+<hkern k="70" u1="Ќ" u2="Ч"/>
+<hkern k="70" u1="Ќ" u2="Ф"/>
+<hkern k="70" u1="Ќ" u2="С"/>
+<hkern k="70" u1="Ќ" u2="О"/>
+<hkern k="70" u1="Ќ" u2="Є"/>
+<hkern k="125" u1="А" u2="Ч"/>
+<hkern k="70" u1="А" u2="Ф"/>
+<hkern k="115" u1="А" u2="У"/>
+<hkern k="140" u1="А" u2="Т"/>
+<hkern k="70" u1="А" u2="С"/>
+<hkern k="70" u1="А" u2="О"/>
+<hkern k="70" u1="А" u2="Є"/>
+<hkern k="133" u1="Г" u2="ґ"/>
+<hkern k="133" u1="Г" u2="ќ"/>
+<hkern k="133" u1="Г" u2="ѕ"/>
+<hkern k="133" u1="Г" u2="є"/>
+<hkern k="133" u1="Г" u2="ѓ"/>
+<hkern k="133" u1="Г" u2="ё"/>
+<hkern k="133" u1="Г" u2="я"/>
+<hkern k="133" u1="Г" u2="ю"/>
+<hkern k="133" u1="Г" u2="э"/>
+<hkern k="133" u1="Г" u2="ь"/>
+<hkern k="133" u1="Г" u2="ы"/>
+<hkern k="133" u1="Г" u2="ъ"/>
+<hkern k="133" u1="Г" u2="щ"/>
+<hkern k="133" u1="Г" u2="ш"/>
+<hkern k="133" u1="Г" u2="ч"/>
+<hkern k="133" u1="Г" u2="ц"/>
+<hkern k="133" u1="Г" u2="х"/>
+<hkern k="133" u1="Г" u2="ф"/>
+<hkern k="133" u1="Г" u2="у"/>
+<hkern k="133" u1="Г" u2="т"/>
+<hkern k="133" u1="Г" u2="с"/>
+<hkern k="133" u1="Г" u2="р"/>
+<hkern k="133" u1="Г" u2="п"/>
+<hkern k="133" u1="Г" u2="о"/>
+<hkern k="133" u1="Г" u2="н"/>
+<hkern k="133" u1="Г" u2="м"/>
+<hkern k="133" u1="Г" u2="л"/>
+<hkern k="133" u1="Г" u2="к"/>
+<hkern k="100" u1="Г" u2="й"/>
+<hkern k="133" u1="Г" u2="и"/>
+<hkern k="133" u1="Г" u2="з"/>
+<hkern k="133" u1="Г" u2="ж"/>
+<hkern k="133" u1="Г" u2="е"/>
+<hkern k="133" u1="Г" u2="д"/>
+<hkern k="133" u1="Г" u2="г"/>
+<hkern k="133" u1="Г" u2="в"/>
+<hkern k="133" u1="Г" u2="б"/>
+<hkern k="133" u1="Г" u2="а"/>
+<hkern k="-50" u1="Г" u2="Ъ"/>
+<hkern k="70" u1="Г" u2="Ф"/>
+<hkern k="-50" u1="Г" u2="У"/>
+<hkern k="-50" u1="Г" u2="Т"/>
+<hkern k="70" u1="Г" u2="С"/>
+<hkern k="70" u1="Г" u2="О"/>
+<hkern k="125" u1="Г" u2="Л"/>
+<hkern k="125" u1="Г" u2="Ж"/>
+<hkern k="125" u1="Г" u2="Д"/>
+<hkern k="140" u1="Г" u2="А"/>
+<hkern k="70" u1="Г" u2="Є"/>
+<hkern k="170" u1="Д" u2="Ч"/>
+<hkern k="70" u1="Д" u2="Ф"/>
+<hkern k="125" u1="Д" u2="У"/>
+<hkern k="110" u1="Д" u2="Т"/>
+<hkern k="70" u1="Д" u2="С"/>
+<hkern k="70" u1="Д" u2="О"/>
+<hkern k="70" u1="Д" u2="Є"/>
+<hkern k="110" u1="Ж" u2="Ч"/>
+<hkern k="70" u1="Ж" u2="Ф"/>
+<hkern k="70" u1="Ж" u2="Т"/>
+<hkern k="70" u1="Ж" u2="С"/>
+<hkern k="70" u1="Ж" u2="О"/>
+<hkern k="70" u1="Ж" u2="Є"/>
+<hkern k="70" u1="К" u2="Ъ"/>
+<hkern k="70" u1="К" u2="Ч"/>
+<hkern k="70" u1="К" u2="Ф"/>
+<hkern k="70" u1="К" u2="С"/>
+<hkern k="70" u1="К" u2="О"/>
+<hkern k="70" u1="К" u2="Є"/>
+<hkern k="70" u1="Л" u2="Ъ"/>
+<hkern k="125" u1="Л" u2="Ч"/>
+<hkern k="70" u1="Л" u2="Ф"/>
+<hkern k="70" u1="Л" u2="У"/>
+<hkern k="70" u1="Л" u2="С"/>
+<hkern k="70" u1="Л" u2="О"/>
+<hkern k="70" u1="Л" u2="Є"/>
+<hkern k="70" u1="О" u2="Л"/>
+<hkern k="70" u1="О" u2="Ж"/>
+<hkern k="70" u1="О" u2="Д"/>
+<hkern k="70" u1="О" u2="А"/>
+<hkern k="110" u1="Р" u2="Л"/>
+<hkern k="110" u1="Р" u2="Ж"/>
+<hkern k="140" u1="Р" u2="Д"/>
+<hkern k="125" u1="Р" u2="А"/>
+<hkern k="100" u1="Т" u2="ґ"/>
+<hkern k="100" u1="Т" u2="ќ"/>
+<hkern k="111" u1="Т" u2="ѕ"/>
+<hkern k="111" u1="Т" u2="є"/>
+<hkern k="100" u1="Т" u2="ѓ"/>
+<hkern k="111" u1="Т" u2="ё"/>
+<hkern k="100" u1="Т" u2="я"/>
+<hkern k="100" u1="Т" u2="ю"/>
+<hkern k="89" u1="Т" u2="э"/>
+<hkern k="100" u1="Т" u2="ь"/>
+<hkern k="100" u1="Т" u2="ы"/>
+<hkern k="111" u1="Т" u2="ъ"/>
+<hkern k="100" u1="Т" u2="щ"/>
+<hkern k="100" u1="Т" u2="ш"/>
+<hkern k="89" u1="Т" u2="ч"/>
+<hkern k="100" u1="Т" u2="ц"/>
+<hkern k="100" u1="Т" u2="х"/>
+<hkern k="100" u1="Т" u2="ф"/>
+<hkern k="111" u1="Т" u2="у"/>
+<hkern k="111" u1="Т" u2="т"/>
+<hkern k="111" u1="Т" u2="с"/>
+<hkern k="111" u1="Т" u2="р"/>
+<hkern k="111" u1="Т" u2="п"/>
+<hkern k="111" u1="Т" u2="о"/>
+<hkern k="100" u1="Т" u2="н"/>
+<hkern k="100" u1="Т" u2="м"/>
+<hkern k="100" u1="Т" u2="л"/>
+<hkern k="100" u1="Т" u2="к"/>
+<hkern k="100" u1="Т" u2="й"/>
+<hkern k="100" u1="Т" u2="и"/>
+<hkern k="111" u1="Т" u2="з"/>
+<hkern k="100" u1="Т" u2="ж"/>
+<hkern k="111" u1="Т" u2="е"/>
+<hkern k="100" u1="Т" u2="д"/>
+<hkern k="100" u1="Т" u2="г"/>
+<hkern k="100" u1="Т" u2="в"/>
+<hkern k="111" u1="Т" u2="б"/>
+<hkern k="111" u1="Т" u2="а"/>
+<hkern k="80" u1="Т" u2="Л"/>
+<hkern k="110" u1="Т" u2="Д"/>
+<hkern k="86" u1="Т" u2="А"/>
+<hkern k="133" u1="У" u2="ґ"/>
+<hkern k="133" u1="У" u2="ќ"/>
+<hkern k="133" u1="У" u2="ѕ"/>
+<hkern k="155" u1="У" u2="є"/>
+<hkern k="133" u1="У" u2="ѓ"/>
+<hkern k="155" u1="У" u2="ё"/>
+<hkern k="111" u1="У" u2="я"/>
+<hkern k="111" u1="У" u2="ю"/>
+<hkern k="111" u1="У" u2="э"/>
+<hkern k="111" u1="У" u2="ь"/>
+<hkern k="111" u1="У" u2="ы"/>
+<hkern k="111" u1="У" u2="ъ"/>
+<hkern k="111" u1="У" u2="щ"/>
+<hkern k="111" u1="У" u2="ш"/>
+<hkern k="111" u1="У" u2="ч"/>
+<hkern k="133" u1="У" u2="ц"/>
+<hkern k="133" u1="У" u2="х"/>
+<hkern k="155" u1="У" u2="ф"/>
+<hkern k="100" u1="У" u2="у"/>
+<hkern k="133" u1="У" u2="т"/>
+<hkern k="155" u1="У" u2="с"/>
+<hkern k="133" u1="У" u2="р"/>
+<hkern k="133" u1="У" u2="п"/>
+<hkern k="155" u1="У" u2="о"/>
+<hkern k="133" u1="У" u2="н"/>
+<hkern k="133" u1="У" u2="м"/>
+<hkern k="155" u1="У" u2="л"/>
+<hkern k="133" u1="У" u2="к"/>
+<hkern k="133" u1="У" u2="й"/>
+<hkern k="133" u1="У" u2="и"/>
+<hkern k="133" u1="У" u2="з"/>
+<hkern k="155" u1="У" u2="ж"/>
+<hkern k="155" u1="У" u2="е"/>
+<hkern k="200" u1="У" u2="д"/>
+<hkern k="133" u1="У" u2="г"/>
+<hkern k="133" u1="У" u2="в"/>
+<hkern k="111" u1="У" u2="б"/>
+<hkern k="155" u1="У" u2="а"/>
+<hkern k="50" u1="У" u2="Ф"/>
+<hkern k="100" u1="У" u2="Л"/>
+<hkern k="100" u1="У" u2="Ж"/>
+<hkern k="125" u1="У" u2="Д"/>
+<hkern k="115" u1="У" u2="А"/>
+<hkern k="42" u1="Ф" u2="Х"/>
+<hkern k="70" u1="Ф" u2="Л"/>
+<hkern k="70" u1="Ф" u2="Ж"/>
+<hkern k="70" u1="Ф" u2="Д"/>
+<hkern k="70" u1="Ф" u2="А"/>
+<hkern k="70" u1="Э" u2="Ж"/>
+<hkern k="70" u1="Э" u2="А"/>
+<hkern k="70" u1="Ю" u2="Л"/>
+<hkern k="70" u1="Ю" u2="Ж"/>
+<hkern k="70" u1="Ю" u2="Д"/>
+<hkern k="70" u1="Ю" u2="А"/>
+<hkern k="46" u1="б" u2="л"/>
+<hkern k="80" u1="г" u2="л"/>
+<hkern k="80" u1="г" u2="д"/>
+<hkern k="70" u1="д" u2="ч"/>
+<hkern k="70" u1="д" u2="у"/>
+<hkern k="90" u1="д" u2="т"/>
+<hkern k="45" u1="ж" u2="ч"/>
+<hkern k="50" u1="ж" u2="у"/>
+<hkern k="50" u1="ж" u2="т"/>
+<hkern k="45" u1="л" u2="ч"/>
+<hkern k="90" u1="л" u2="т"/>
+<hkern k="90" u1="т" u2="л"/>
+<hkern k="50" u1="т" u2="ж"/>
+<hkern k="90" u1="т" u2="д"/>
+<hkern k="60" u1="у" u2="ж"/>
+<hkern k="70" u1="у" u2="д"/>
+<hkern k="90" u1="ъ" u2="т"/>
+<hkern k="90" u1="ь" u2="т"/>
+<hkern k="80" u1="ѓ" u2="л"/>
+<hkern k="80" u1="ѓ" u2="д"/>
+<hkern k="133" u1="Ґ" u2="ґ"/>
+<hkern k="133" u1="Ґ" u2="ќ"/>
+<hkern k="133" u1="Ґ" u2="ѕ"/>
+<hkern k="133" u1="Ґ" u2="є"/>
+<hkern k="133" u1="Ґ" u2="ѓ"/>
+<hkern k="133" u1="Ґ" u2="ё"/>
+<hkern k="133" u1="Ґ" u2="я"/>
+<hkern k="133" u1="Ґ" u2="ю"/>
+<hkern k="133" u1="Ґ" u2="э"/>
+<hkern k="133" u1="Ґ" u2="ь"/>
+<hkern k="133" u1="Ґ" u2="ы"/>
+<hkern k="133" u1="Ґ" u2="ъ"/>
+<hkern k="133" u1="Ґ" u2="щ"/>
+<hkern k="133" u1="Ґ" u2="ш"/>
+<hkern k="133" u1="Ґ" u2="ч"/>
+<hkern k="133" u1="Ґ" u2="ц"/>
+<hkern k="133" u1="Ґ" u2="х"/>
+<hkern k="133" u1="Ґ" u2="ф"/>
+<hkern k="133" u1="Ґ" u2="у"/>
+<hkern k="133" u1="Ґ" u2="т"/>
+<hkern k="133" u1="Ґ" u2="с"/>
+<hkern k="133" u1="Ґ" u2="р"/>
+<hkern k="133" u1="Ґ" u2="п"/>
+<hkern k="133" u1="Ґ" u2="о"/>
+<hkern k="133" u1="Ґ" u2="н"/>
+<hkern k="133" u1="Ґ" u2="м"/>
+<hkern k="133" u1="Ґ" u2="л"/>
+<hkern k="133" u1="Ґ" u2="к"/>
+<hkern k="100" u1="Ґ" u2="й"/>
+<hkern k="133" u1="Ґ" u2="и"/>
+<hkern k="133" u1="Ґ" u2="з"/>
+<hkern k="133" u1="Ґ" u2="ж"/>
+<hkern k="133" u1="Ґ" u2="е"/>
+<hkern k="133" u1="Ґ" u2="д"/>
+<hkern k="133" u1="Ґ" u2="г"/>
+<hkern k="133" u1="Ґ" u2="в"/>
+<hkern k="133" u1="Ґ" u2="б"/>
+<hkern k="133" u1="Ґ" u2="а"/>
+<hkern k="-50" u1="Ґ" u2="Ъ"/>
+<hkern k="70" u1="Ґ" u2="Ф"/>
+<hkern k="-50" u1="Ґ" u2="У"/>
+<hkern k="-50" u1="Ґ" u2="Т"/>
+<hkern k="70" u1="Ґ" u2="С"/>
+<hkern k="70" u1="Ґ" u2="О"/>
+<hkern k="125" u1="Ґ" u2="Л"/>
+<hkern k="125" u1="Ґ" u2="Ж"/>
+<hkern k="125" u1="Ґ" u2="Д"/>
+<hkern k="140" u1="Ґ" u2="А"/>
+<hkern k="70" u1="Ґ" u2="Є"/>
+<hkern k="80" u1="ґ" u2="л"/>
+<hkern k="80" u1="ґ" u2="д"/>
+</font>
+</defs>
+</svg>

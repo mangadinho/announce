@@ -1,0 +1,145 @@
+﻿@font-face {
+	font-family:'PoiretOne-Regular';
+	src: url('/fonts/PoiretOne-Regular.eot');
+	src: url('/fonts/PoiretOne-Regular.eot?#iefix') format('embedded-opentype'),
+		url('/fonts/PoiretOne-Regular.woff') format('woff'),
+		url('/fonts/PoiretOne-Regular.ttf') format('truetype'),
+		url('/fonts/PoiretOne-Regular.svg#PoiretOne-Regular') format('svg');
+	font-weight: 400;
+	font-style: normal;
+	font-stretch: normal;
+}
+@font-face {
+	font-family:'Poiret';
+	src: url('/fonts/Poiret.eot');
+	src: url('/fonts/Poiret.eot?#iefix') format('embedded-opentype'),
+		url('/fonts/Poiret.woff') format('woff'),
+		url('/fonts/Poiret.ttf') format('truetype'),
+		url('/fonts/Poiret.svg#PoiretOne-Regular') format('svg');
+	font-weight: 400;
+	font-style: normal;
+	font-stretch: normal;
+}
+
+* {
+margin:0;
+}
+body {
+ height: 100%;
+
+}
+html { 
+ position:relative; 
+ min-height:100%;
+}
+
+#wrapper{
+	padding-top:5px;
+	padding-bottom:200px;
+}
+header{
+	height:150px;
+}
+#sign_in_out li
+{
+	display:inline-block;
+}
+#sign_in_out li a{
+	list-style:none;
+}
+#sign_in_out li a:hover{
+	text-decoration:none;
+}
+#lang_file, #sign_in_out{
+	text-align:right;
+} 
+#lang_file{
+	padding-left:0px;
+}
+#lang_file li{
+	display:inline-block;
+}
+#lang_file li a{
+	list-style:none;
+	font-size:12px;
+}
+#lang_file li a:hover{
+	text-decoration:none;
+}
+#finds{
+	text-align:right;
+}
+#finds input[type=search] {
+    background: url(/img/search-icon.png) no-repeat 9px center;
+	border:1px solid black;
+	padding-left:35px;
+	border-radius:3px;
+}
+#sign_in_reg{
+	padding-left:0px;
+}
+#sign_in_reg li
+{
+	display:inline-block;
+}
+#sign_in_reg li a{
+	list-style:none;
+	text-align:left;
+}
+#sign_in_reg li a:hover{
+	text-decoration:none;
+}
+input[type=text], input[type=mail]{
+	margin-bottom:5px;
+	width:172px;
+}
+section .anounce_header .anounce_date, section .anounce_header .anounce_price{
+	color:rgb(197,24,58);
+}
+section .anounce_header .anounce_title{
+	margin-left:20px;
+}
+section img{
+	display:block;
+	height:50px;
+	width:50px;
+	margin-right:0px;
+}
+section .anounce_header .anounce_title{
+	color:blue;
+	transition: all .2s;
+}
+section .anounce_header .anounce_title:hover{
+	text-decoration:none;
+	color:red;
+}
+section p a:hover{
+	text-decoration:none;
+	color:red;
+}
+#footer a img{
+	display:inline-block;
+	width:32px;
+	height:32px;
+}
+#footer{
+	height:100px;
+}
+nav ul{
+	text-align:right;
+}
+nav ul li{
+	display:inline-block;
+	list-style:none;
+}
+nav ul li{
+	margin-left:30px;
+}
+nav ul li a{
+	text-decoration:none;
+	transition:all 0.3s;
+}
+nav ul li a:hover{
+	text-decoration:none;
+	color:red;
+}
